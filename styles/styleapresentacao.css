@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+
+ background-image: url("../imagens/imagem-fundo-vídeo\ apresentação.png");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ min-height: 80vh;
+ margin: 0;
+ margin-top: 100px;
+ cursor: url("../imagens/mouse1.png"), auto;
+}
+
+iframe {
+    align-items: center;
+
+
+}
